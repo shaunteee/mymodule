@@ -1,0 +1,3 @@
+lst = [('Beginning iOS Programming', 534, 34.99), 
+       ('Beginning Android Programming', 484, 29.99), 
+       ('Python Machine Learning', 284, 39.99)]
